@@ -2102,7 +2102,7 @@ input, select, textarea {
 		}
 
 		.icon.style2 {
-			color: #cf8d41;
+			color: #245c4e;
 		}
 
 		.icon.style3 {
@@ -3334,7 +3334,7 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #b17c41;
+		background: #3e5a53;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
