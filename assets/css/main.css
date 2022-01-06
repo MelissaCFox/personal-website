@@ -27,6 +27,10 @@
 	font-size: 6em;
 }
 
+.techStack-logos {
+	width: 50%;
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -2963,7 +2967,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #4f798a;
+			background-color: #3e5a53;
 			color: #d3d4e4;
 		}
 
@@ -3017,7 +3021,7 @@ input, select, textarea {
 
 				.wrapper.style3 select option {
 					color: #ffffff;
-					background: #505393;
+					background: #3e5a53;
 				}
 
 			.wrapper.style3 input[type="checkbox"] + label,
@@ -3033,7 +3037,7 @@ input, select, textarea {
 			.wrapper.style3 input[type="checkbox"]:checked + label:before,
 			.wrapper.style3 input[type="radio"]:checked + label:before {
 				background: #ffffff;
-				color: #505393;
+				color: #3e5a53;
 			}
 
 			.wrapper.style3 ::-webkit-input-placeholder {
